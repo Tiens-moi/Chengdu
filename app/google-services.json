@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "403857504111",
+    "firebase_url": "https://chendu-63266.firebaseio.com",
+    "project_id": "chendu-63266",
+    "storage_bucket": "chendu-63266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403857504111:android:bf062783b8463a8b",
+        "android_client_info": {
+          "package_name": "qingjiu.sj0132.s2.studyjams.cn.chengdu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403857504111-cp3k86g2nng7sm7clhj457p6bqh9e594.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh_HU0m1FyKW7K6t3R4sqeImmfqlxydCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
